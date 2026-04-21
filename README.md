@@ -192,8 +192,14 @@ streamlit run app/streamlit_app.py
 ## Note
 
 - Models are pre-trained and stored in `/models`
-
+- train.py is inside src folder
 ---
+##  Dataset
+
+The dataset is not included due to size limitations.
+
+Download here:
+https://drive.google.com/file/d/13Mzc0DXm-TJPCz4zFvBfegqSSGY8HLw-/view?usp=sharing
 
 ## Tech Stack
 
